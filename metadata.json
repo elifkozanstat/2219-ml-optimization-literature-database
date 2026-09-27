@@ -1,0 +1,20 @@
+{
+  "title": "Open Access Database of Optimization Models and Related Learning Methods",
+  "deliverable": "D1.2",
+  "project": "New Optimization Procedures in Machine Learning Algorithms",
+  "version": "1.0",
+  "release_date": "2026-09",
+  "record_count": 57,
+  "canonical_file": "data/D1_2_literature_database.csv",
+  "supplementary_file": "data/D1_2_literature_database.xlsx",
+  "review_type": "Structured state-of-the-art database",
+  "scoring_included": false,
+  "repository": "https://github.com/elifkozanstat/2219-ml-optimization-literature-database",
+  "funding": "TÜBİTAK 2219 International Postdoctoral Research Fellowship Programme",
+  "d1_3_status": "Completed separately; formal scores are not duplicated in D1.2",
+  "evidence_review_counts": {
+    "full_text_or_detailed_source_checked": 23,
+    "abstract_or_metadata_checked": 24,
+    "source_record_checked": 10
+  }
+}

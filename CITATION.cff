@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this literature database, please cite it using the metadata below."
+title: "Open Access Database of Optimization Models and Related Learning Methods"
+type: dataset
+authors:
+  - family-names: "Kozan"
+    given-names: "Elif"
+version: "1.0"
+date-released: "2026-09"
+repository-code: "https://github.com/elifkozanstat/2219-ml-optimization-literature-database"
+abstract: "A structured literature database prepared for the project 'New Optimization Procedures in Machine Learning Algorithms', covering machine-learning optimization, robust/adaptive objective design, engineering metaheuristics, and learned road-network distance and travel-time estimation."
+keywords:
+  - machine learning
+  - optimization
+  - robust loss
+  - adaptive objective design
+  - road networks
+  - literature database
